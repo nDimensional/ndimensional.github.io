@@ -1,0 +1,15 @@
+html {
+    padding: 16px;
+    font-family: 'Cutive', serif;
+    line-height: 2em;
+    background: #eee;
+}
+
+body {
+    margin: 64px auto;
+    max-width: 800px;
+}
+
+a {
+    font-family: 'Roboto Mono', monospace;
+}
